@@ -7,7 +7,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AspNetAngularWebForms", "As
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AspNetAngularMVC", "AspNetAngularMVC\AspNetAngularMVC.vbproj", "{79B4D066-EE68-474F-9BF5-A5A1B1C960D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetAngularCore", "AspNetAngularCore\AspNetAngularCore.csproj", "{82F5F6B5-5978-4F9D-9133-A9CD2ED86AE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetAngularCore", "AspNetAngularCore\AspNetAngularCore.csproj", "{82F5F6B5-5978-4F9D-9133-A9CD2ED86AE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetAngularCoreTemplate", "AspNetAngularCoreTemplate\AspNetAngularCoreTemplate.csproj", "{487CBB3D-344A-44E3-8D0D-77BA36A94919}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AspNetAngularWebFormsClean", "AspNetAngularWebFormsClean\AspNetAngularWebFormsClean.vbproj", "{62FD9307-B789-41F4-B151-4C5B29AE178B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{82F5F6B5-5978-4F9D-9133-A9CD2ED86AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F5F6B5-5978-4F9D-9133-A9CD2ED86AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F5F6B5-5978-4F9D-9133-A9CD2ED86AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487CBB3D-344A-44E3-8D0D-77BA36A94919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487CBB3D-344A-44E3-8D0D-77BA36A94919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487CBB3D-344A-44E3-8D0D-77BA36A94919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487CBB3D-344A-44E3-8D0D-77BA36A94919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FD9307-B789-41F4-B151-4C5B29AE178B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FD9307-B789-41F4-B151-4C5B29AE178B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FD9307-B789-41F4-B151-4C5B29AE178B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FD9307-B789-41F4-B151-4C5B29AE178B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
